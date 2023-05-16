@@ -26,6 +26,7 @@
 #include "Options.h"
 
 #include <functional>
+#include <mutex>
 #include <shared_mutex>
 
 namespace SPTAG
