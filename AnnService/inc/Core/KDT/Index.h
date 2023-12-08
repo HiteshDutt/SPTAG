@@ -22,6 +22,7 @@
 #include "inc/Core/Common/IQuantizer.h"
 
 #include <functional>
+#include <mutex>
 #include <shared_mutex>
 
 namespace SPTAG
